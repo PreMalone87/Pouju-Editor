@@ -7,12 +7,12 @@ To go for special features open the Feature Menu in the main window and you can 
 
 
 ### Default View : 
-![Default View](Pictures/PoujuEditor.png)
+![Default View](Pictures/PoujuEditor.PNG)
 
 ### Chat Feature Design :
-![Chat feature](Pictures/Chat_Feature.png)
+![Chat feature](Pictures/Chat_Feature.PNG)
 
 ### Demo Chat Window : 
-![ChatWindow](Pictures/Chat.png)
+![ChatWindow](Pictures/Chat.PNG)
 
 Edit the sample2.py file before initiating chatting. You will then be able to chat with the another user by entering their chatID that would be displayed in their orrsponding chat window
