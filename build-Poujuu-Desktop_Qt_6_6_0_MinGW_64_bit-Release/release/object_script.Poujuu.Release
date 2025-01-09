@@ -1,0 +1,10 @@
+release/MyTextEdit.o
+release/chat.o
+release/finddialog.o
+release/main.o
+release/mainwindow.o
+release/qrc_images.o
+release/moc_MyTextEdit.o
+release/moc_chat.o
+release/moc_finddialog.o
+release/moc_mainwindow.o

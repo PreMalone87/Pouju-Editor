@@ -1,0 +1,10 @@
+debug/MyTextEdit.o
+debug/chat.o
+debug/finddialog.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_images.o
+debug/moc_MyTextEdit.o
+debug/moc_chat.o
+debug/moc_finddialog.o
+debug/moc_mainwindow.o

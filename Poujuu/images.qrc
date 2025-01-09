@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Resources/icons/copy.png</file>
+        <file>Resources/icons/file.png</file>
+        <file>Resources/icons/find.png</file>
+        <file>Resources/icons/new.png</file>
+        <file>Resources/icons/open.png</file>
+        <file>Resources/icons/paste.png</file>
+        <file>Resources/icons/redo.png</file>
+        <file>Resources/icons/save.png</file>
+        <file>Resources/icons/saveAs.png</file>
+        <file>Resources/icons/selectAll.png</file>
+        <file>Resources/icons/undo.png</file>
+        <file>Resources/icons/print.png</file>
+        <file>Resources/icons/cut.png</file>
+        <file>Resources/icons/bold.png</file>
+        <file>Resources/icons/font_bck_color.png</file>
+        <file>Resources/icons/font_color.png</file>
+        <file>Resources/icons/font_size.png</file>
+        <file>Resources/icons/font_style.png</file>
+        <file>Resources/icons/italic.png</file>
+        <file>Resources/icons/palette_color.png</file>
+        <file>Resources/icons/cry.jfif</file>
+        <file>Resources/icons/cry2.jfif</file>
+        <file>Resources/icons/down.png</file>
+        <file>Resources/icons/up.png</file>
+        <file>Resources/icons/chat.png</file>
+    </qresource>
+</RCC>
